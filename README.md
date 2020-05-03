@@ -1,9 +1,9 @@
 # PhillipsCurve
-Empirical testing of relationship between inflation and the unemployment rate (1947-2017)
+Empirical testing of relationship between inflation and the unemployment rate (1947-2017).
 
 ### Overview
 This analysis was conducted and presented for a consulting case study. The case centered around two questions:
-- Does William Phillips's theory of the relationship between inflation and unemployment (i.e. the Phillips Curve) hold for the United States?
+- Does William Phillips's theory of the relationship between inflation and unemployment (the Phillips Curve) hold for the United States?
 - What alterations to the theory, if any, could improve its performance?
 
 An initial selection of raw, unformatted data was provided; this data was supplemented by data collection from the St. Louis Fed's Federal Reserve Economic Data (FRED) database and the Bureau of Labor Statistics public data API.
@@ -52,8 +52,8 @@ The analysis used the following libraries:
 - Phillips Curve 1960-1969
 
 ##### Regression Tables
-- pc_linear_reg_table
-- pc_nonlinear_reg_table
+- pc_linear_reg_table: Linear Regression Testing
+- pc_nonlinear_reg_table: Nonlinear Regression Testing
 
 #### Presentation
 - PhillipsCurveAnalysis.pptx
