@@ -1,0 +1,1949 @@
+Data,Year,Month ,Value
+Consumer Price Index,1947,1,21.48
+Consumer Price Index,1947,2,21.62
+Consumer Price Index,1947,3,22
+Consumer Price Index,1947,4,22
+Consumer Price Index,1947,5,21.95
+Consumer Price Index,1947,6,22.08
+Consumer Price Index,1947,7,22.23
+Consumer Price Index,1947,8,22.4
+Consumer Price Index,1947,9,22.84
+Consumer Price Index,1947,10,22.91
+Consumer Price Index,1947,11,23.06
+Consumer Price Index,1947,12,23.41
+Consumer Price Index,1948,1,23.68
+Consumer Price Index,1948,2,23.67
+Consumer Price Index,1948,3,23.5
+Consumer Price Index,1948,4,23.82
+Consumer Price Index,1948,5,24.01
+Consumer Price Index,1948,6,24.15
+Consumer Price Index,1948,7,24.4
+Consumer Price Index,1948,8,24.43
+Consumer Price Index,1948,9,24.36
+Consumer Price Index,1948,10,24.31
+Consumer Price Index,1948,11,24.16
+Consumer Price Index,1948,12,24.05
+Unemployment Level,1948,1,2034
+Unemployment Level,1948,2,2328
+Unemployment Level,1948,3,2399
+Unemployment Level,1948,4,2386
+Unemployment Level,1948,5,2118
+Unemployment Level,1948,6,2214
+Unemployment Level,1948,7,2213
+Unemployment Level,1948,8,2350
+Unemployment Level,1948,9,2302
+Unemployment Level,1948,10,2259
+Unemployment Level,1948,11,2285
+Unemployment Level,1948,12,2429
+Civilian Labor Force,1948,1,60230
+Civilian Labor Force,1948,4,60535
+Civilian Labor Force,1948,7,60934
+Civilian Labor Force,1948,10,60839
+Consumer Price Index,1949,1,24.01
+Consumer Price Index,1949,2,23.91
+Consumer Price Index,1949,3,23.91
+Consumer Price Index,1949,4,23.92
+Consumer Price Index,1949,5,23.91
+Consumer Price Index,1949,6,23.92
+Consumer Price Index,1949,7,23.7
+Consumer Price Index,1949,8,23.7
+Consumer Price Index,1949,9,23.75
+Consumer Price Index,1949,10,23.67
+Consumer Price Index,1949,11,23.7
+Consumer Price Index,1949,12,23.61
+Unemployment Level,1949,1,2596
+Unemployment Level,1949,2,2849
+Unemployment Level,1949,3,3030
+Unemployment Level,1949,4,3260
+Unemployment Level,1949,5,3707
+Unemployment Level,1949,6,3776
+Unemployment Level,1949,7,4111
+Unemployment Level,1949,8,4193
+Unemployment Level,1949,9,4049
+Unemployment Level,1949,10,4916
+Unemployment Level,1949,11,3996
+Unemployment Level,1949,12,4063
+Civilian Labor Force,1949,1,60967
+Civilian Labor Force,1949,4,61071
+Civilian Labor Force,1949,7,61508
+Civilian Labor Force,1949,10,62033
+Consumer Price Index,1950,1,23.51
+Consumer Price Index,1950,2,23.61
+Consumer Price Index,1950,3,23.64
+Consumer Price Index,1950,4,23.65
+Consumer Price Index,1950,5,23.77
+Consumer Price Index,1950,6,23.88
+Consumer Price Index,1950,7,24.07
+Consumer Price Index,1950,8,24.2
+Consumer Price Index,1950,9,24.34
+Consumer Price Index,1950,10,24.5
+Consumer Price Index,1950,11,24.6
+Consumer Price Index,1950,12,24.98
+Unemployment Level,1950,1,4026
+Unemployment Level,1950,2,3936
+Unemployment Level,1950,3,3876
+Unemployment Level,1950,4,3575
+Unemployment Level,1950,5,3434
+Unemployment Level,1950,6,3367
+Unemployment Level,1950,7,3120
+Unemployment Level,1950,8,2799
+Unemployment Level,1950,9,2774
+Unemployment Level,1950,10,2625
+Unemployment Level,1950,11,2589
+Unemployment Level,1950,12,2639
+Civilian Labor Force,1950,1,61651
+Civilian Labor Force,1950,4,62220
+Civilian Labor Force,1950,7,62355
+Civilian Labor Force,1950,10,62261
+Consumer Price Index,1951,1,25.38
+Consumer Price Index,1951,2,25.83
+Consumer Price Index,1951,3,25.88
+Consumer Price Index,1951,4,25.92
+Consumer Price Index,1951,5,25.99
+Consumer Price Index,1951,6,25.93
+Consumer Price Index,1951,7,25.91
+Consumer Price Index,1951,8,25.86
+Consumer Price Index,1951,9,26.03
+Consumer Price Index,1951,10,26.16
+Consumer Price Index,1951,11,26.32
+Consumer Price Index,1951,12,26.47
+Unemployment Level,1951,1,2305
+Unemployment Level,1951,2,2117
+Unemployment Level,1951,3,2125
+Unemployment Level,1951,4,1919
+Unemployment Level,1951,5,1856
+Unemployment Level,1951,6,1995
+Unemployment Level,1951,7,1950
+Unemployment Level,1951,8,1933
+Unemployment Level,1951,9,2067
+Unemployment Level,1951,10,2194
+Unemployment Level,1951,11,2178
+Unemployment Level,1951,12,1960
+Civilian Labor Force,1951,1,62082
+Civilian Labor Force,1951,4,61822
+Civilian Labor Force,1951,7,61938
+Civilian Labor Force,1951,10,62225
+Consumer Price Index,1952,1,26.45
+Consumer Price Index,1952,2,26.41
+Consumer Price Index,1952,3,26.39
+Consumer Price Index,1952,4,26.46
+Consumer Price Index,1952,5,26.47
+Consumer Price Index,1952,6,26.53
+Consumer Price Index,1952,7,26.68
+Consumer Price Index,1952,8,26.69
+Consumer Price Index,1952,9,26.63
+Consumer Price Index,1952,10,26.69
+Consumer Price Index,1952,11,26.69
+Consumer Price Index,1952,12,26.71
+Unemployment Level,1952,1,1972
+Unemployment Level,1952,2,1957
+Unemployment Level,1952,3,1813
+Unemployment Level,1952,4,1811
+Unemployment Level,1952,5,1863
+Unemployment Level,1952,6,1884
+Unemployment Level,1952,7,1991
+Unemployment Level,1952,8,2087
+Unemployment Level,1952,9,1936
+Unemployment Level,1952,10,1839
+Unemployment Level,1952,11,1743
+Unemployment Level,1952,12,1667
+Civilian Labor Force,1952,1,62191
+Civilian Labor Force,1952,4,61960
+Civilian Labor Force,1952,7,62099
+Civilian Labor Force,1952,10,62361
+Consumer Price Index,1953,1,26.64
+Consumer Price Index,1953,2,26.59
+Consumer Price Index,1953,3,26.63
+Consumer Price Index,1953,4,26.69
+Consumer Price Index,1953,5,26.7
+Consumer Price Index,1953,6,26.77
+Consumer Price Index,1953,7,26.79
+Consumer Price Index,1953,8,26.85
+Consumer Price Index,1953,9,26.89
+Consumer Price Index,1953,10,26.95
+Consumer Price Index,1953,11,26.85
+Consumer Price Index,1953,12,26.87
+Unemployment Level,1953,1,1839
+Unemployment Level,1953,2,1636
+Unemployment Level,1953,3,1647
+Unemployment Level,1953,4,1723
+Unemployment Level,1953,5,1596
+Unemployment Level,1953,6,1607
+Unemployment Level,1953,7,1660
+Unemployment Level,1953,8,1665
+Unemployment Level,1953,9,1821
+Unemployment Level,1953,10,1974
+Unemployment Level,1953,11,2211
+Unemployment Level,1953,12,2818
+Civilian Labor Force,1953,1,63539
+Civilian Labor Force,1953,4,62948
+Civilian Labor Force,1953,7,62867
+Civilian Labor Force,1953,10,62870
+Consumer Price Index,1954,1,26.94
+Consumer Price Index,1954,2,26.99
+Consumer Price Index,1954,3,26.93
+Consumer Price Index,1954,4,26.86
+Consumer Price Index,1954,5,26.93
+Consumer Price Index,1954,6,26.94
+Consumer Price Index,1954,7,26.86
+Consumer Price Index,1954,8,26.85
+Consumer Price Index,1954,9,26.81
+Consumer Price Index,1954,10,26.72
+Consumer Price Index,1954,11,26.78
+Consumer Price Index,1954,12,26.77
+Unemployment Level,1954,1,3077
+Unemployment Level,1954,2,3331
+Unemployment Level,1954,3,3607
+Unemployment Level,1954,4,3749
+Unemployment Level,1954,5,3767
+Unemployment Level,1954,6,3551
+Unemployment Level,1954,7,3659
+Unemployment Level,1954,8,3854
+Unemployment Level,1954,9,3927
+Unemployment Level,1954,10,3666
+Unemployment Level,1954,11,3402
+Unemployment Level,1954,12,3196
+Civilian Labor Force,1954,1,63629
+Civilian Labor Force,1954,4,63651
+Civilian Labor Force,1954,7,63739
+Civilian Labor Force,1954,10,63669
+Consumer Price Index,1955,1,26.77
+Consumer Price Index,1955,2,26.82
+Consumer Price Index,1955,3,26.79
+Consumer Price Index,1955,4,26.79
+Consumer Price Index,1955,5,26.77
+Consumer Price Index,1955,6,26.71
+Consumer Price Index,1955,7,26.76
+Consumer Price Index,1955,8,26.72
+Consumer Price Index,1955,9,26.85
+Consumer Price Index,1955,10,26.82
+Consumer Price Index,1955,11,26.88
+Consumer Price Index,1955,12,26.87
+Unemployment Level,1955,1,3157
+Unemployment Level,1955,2,2969
+Unemployment Level,1955,3,2918
+Unemployment Level,1955,4,3049
+Unemployment Level,1955,5,2747
+Unemployment Level,1955,6,2701
+Unemployment Level,1955,7,2632
+Unemployment Level,1955,8,2784
+Unemployment Level,1955,9,2678
+Unemployment Level,1955,10,2830
+Unemployment Level,1955,11,2780
+Unemployment Level,1955,12,2761
+Civilian Labor Force,1955,1,63829
+Civilian Labor Force,1955,4,64476
+Civilian Labor Force,1955,7,65451
+Civilian Labor Force,1955,10,66101
+Consumer Price Index,1956,1,26.83
+Consumer Price Index,1956,2,26.86
+Consumer Price Index,1956,3,26.89
+Consumer Price Index,1956,4,26.93
+Consumer Price Index,1956,5,27.03
+Consumer Price Index,1956,6,27.15
+Consumer Price Index,1956,7,27.29
+Consumer Price Index,1956,8,27.31
+Consumer Price Index,1956,9,27.35
+Consumer Price Index,1956,10,27.51
+Consumer Price Index,1956,11,27.51
+Consumer Price Index,1956,12,27.63
+Unemployment Level,1956,1,2666
+Unemployment Level,1956,2,2606
+Unemployment Level,1956,3,2764
+Unemployment Level,1956,4,2650
+Unemployment Level,1956,5,2861
+Unemployment Level,1956,6,2882
+Unemployment Level,1956,7,2952
+Unemployment Level,1956,8,2701
+Unemployment Level,1956,9,2635
+Unemployment Level,1956,10,2571
+Unemployment Level,1956,11,2861
+Unemployment Level,1956,12,2790
+Civilian Labor Force,1956,1,66239
+Civilian Labor Force,1956,4,66563
+Civilian Labor Force,1956,7,66713
+Civilian Labor Force,1956,10,66634
+Consumer Price Index,1957,1,27.67
+Consumer Price Index,1957,2,27.8
+Consumer Price Index,1957,3,27.86
+Consumer Price Index,1957,4,27.93
+Consumer Price Index,1957,5,28
+Consumer Price Index,1957,6,28.11
+Consumer Price Index,1957,7,28.19
+Consumer Price Index,1957,8,28.28
+Consumer Price Index,1957,9,28.32
+Consumer Price Index,1957,10,28.32
+Consumer Price Index,1957,11,28.41
+Consumer Price Index,1957,12,28.47
+Unemployment Level,1957,1,2796
+Unemployment Level,1957,2,2622
+Unemployment Level,1957,3,2509
+Unemployment Level,1957,4,2600
+Unemployment Level,1957,5,2710
+Unemployment Level,1957,6,2856
+Unemployment Level,1957,7,2796
+Unemployment Level,1957,8,2747
+Unemployment Level,1957,9,2943
+Unemployment Level,1957,10,3020
+Unemployment Level,1957,11,3454
+Unemployment Level,1957,12,3476
+Civilian Labor Force,1957,1,66740
+Civilian Labor Force,1957,4,66798
+Civilian Labor Force,1957,7,67035
+Civilian Labor Force,1957,10,67196
+Consumer Price Index,1958,1,28.64
+Consumer Price Index,1958,2,28.7
+Consumer Price Index,1958,3,28.87
+Consumer Price Index,1958,4,28.94
+Consumer Price Index,1958,5,28.94
+Consumer Price Index,1958,6,28.91
+Consumer Price Index,1958,7,28.89
+Consumer Price Index,1958,8,28.94
+Consumer Price Index,1958,9,28.91
+Consumer Price Index,1958,10,28.91
+Consumer Price Index,1958,11,28.95
+Consumer Price Index,1958,12,28.97
+Unemployment Level,1958,1,3875
+Unemployment Level,1958,2,4303
+Unemployment Level,1958,3,4492
+Unemployment Level,1958,4,5016
+Unemployment Level,1958,5,5021
+Unemployment Level,1958,6,4944
+Unemployment Level,1958,7,5079
+Unemployment Level,1958,8,5025
+Unemployment Level,1958,9,4821
+Unemployment Level,1958,10,4570
+Unemployment Level,1958,11,4188
+Unemployment Level,1958,12,4191
+Civilian Labor Force,1958,1,67173
+Civilian Labor Force,1958,4,67739
+Civilian Labor Force,1958,7,67954
+Civilian Labor Force,1958,10,67814
+Consumer Price Index,1959,1,29.01
+Consumer Price Index,1959,2,29
+Consumer Price Index,1959,3,28.97
+Consumer Price Index,1959,4,28.98
+Consumer Price Index,1959,5,29.04
+Consumer Price Index,1959,6,29.11
+Consumer Price Index,1959,7,29.15
+Consumer Price Index,1959,8,29.18
+Consumer Price Index,1959,9,29.25
+Consumer Price Index,1959,10,29.35
+Consumer Price Index,1959,11,29.35
+Consumer Price Index,1959,12,29.41
+Unemployment Level,1959,1,4068
+Unemployment Level,1959,2,3965
+Unemployment Level,1959,3,3801
+Unemployment Level,1959,4,3571
+Unemployment Level,1959,5,3479
+Unemployment Level,1959,6,3429
+Unemployment Level,1959,7,3528
+Unemployment Level,1959,8,3588
+Unemployment Level,1959,9,3775
+Unemployment Level,1959,10,3910
+Unemployment Level,1959,11,4003
+Unemployment Level,1959,12,3653
+Civilian Labor Force,1959,1,67884
+Civilian Labor Force,1959,4,68265
+Civilian Labor Force,1959,7,68505
+Civilian Labor Force,1959,10,68783
+Consumer Price Index,1960,1,29.37
+Consumer Price Index,1960,2,29.41
+Consumer Price Index,1960,3,29.41
+Consumer Price Index,1960,4,29.54
+Consumer Price Index,1960,5,29.57
+Consumer Price Index,1960,6,29.61
+Consumer Price Index,1960,7,29.55
+Consumer Price Index,1960,8,29.61
+Consumer Price Index,1960,9,29.61
+Consumer Price Index,1960,10,29.75
+Consumer Price Index,1960,11,29.78
+Consumer Price Index,1960,12,29.81
+Unemployment Level,1960,1,3615
+Unemployment Level,1960,2,3329
+Unemployment Level,1960,3,3726
+Unemployment Level,1960,4,3620
+Unemployment Level,1960,5,3569
+Unemployment Level,1960,6,3766
+Unemployment Level,1960,7,3836
+Unemployment Level,1960,8,3946
+Unemployment Level,1960,9,3884
+Unemployment Level,1960,10,4252
+Unemployment Level,1960,11,4330
+Unemployment Level,1960,12,4617
+Civilian Labor Force,1960,1,68770
+Civilian Labor Force,1960,4,69713
+Civilian Labor Force,1960,7,69912
+Civilian Labor Force,1960,10,70239
+Consumer Price Index,1961,1,29.84
+Consumer Price Index,1961,2,29.84
+Consumer Price Index,1961,3,29.84
+Consumer Price Index,1961,4,29.81
+Consumer Price Index,1961,5,29.84
+Consumer Price Index,1961,6,29.84
+Consumer Price Index,1961,7,29.92
+Consumer Price Index,1961,8,29.94
+Consumer Price Index,1961,9,29.98
+Consumer Price Index,1961,10,29.98
+Consumer Price Index,1961,11,29.98
+Consumer Price Index,1961,12,30.01
+Unemployment Level,1961,1,4671
+Unemployment Level,1961,2,4832
+Unemployment Level,1961,3,4853
+Unemployment Level,1961,4,4893
+Unemployment Level,1961,5,5003
+Unemployment Level,1961,6,4885
+Unemployment Level,1961,7,4928
+Unemployment Level,1961,8,4682
+Unemployment Level,1961,9,4676
+Unemployment Level,1961,10,4573
+Unemployment Level,1961,11,4295
+Unemployment Level,1961,12,4177
+Civilian Labor Force,1961,1,70523
+Civilian Labor Force,1961,4,70532
+Civilian Labor Force,1961,7,70429
+Civilian Labor Force,1961,10,70315
+Consumer Price Index,1962,1,30.04
+Consumer Price Index,1962,2,30.11
+Consumer Price Index,1962,3,30.17
+Consumer Price Index,1962,4,30.21
+Consumer Price Index,1962,5,30.24
+Consumer Price Index,1962,6,30.21
+Consumer Price Index,1962,7,30.22
+Consumer Price Index,1962,8,30.28
+Consumer Price Index,1962,9,30.42
+Consumer Price Index,1962,10,30.38
+Consumer Price Index,1962,11,30.38
+Consumer Price Index,1962,12,30.38
+Unemployment Level,1962,1,4081
+Unemployment Level,1962,2,3871
+Unemployment Level,1962,3,3921
+Unemployment Level,1962,4,3906
+Unemployment Level,1962,5,3863
+Unemployment Level,1962,6,3844
+Unemployment Level,1962,7,3819
+Unemployment Level,1962,8,4013
+Unemployment Level,1962,9,3961
+Unemployment Level,1962,10,3803
+Unemployment Level,1962,11,4024
+Unemployment Level,1962,12,3907
+Civilian Labor Force,1962,1,70337
+Civilian Labor Force,1962,4,70448
+Civilian Labor Force,1962,7,70812
+Civilian Labor Force,1962,10,70881
+Consumer Price Index,1963,1,30.44
+Consumer Price Index,1963,2,30.48
+Consumer Price Index,1963,3,30.51
+Consumer Price Index,1963,4,30.48
+Consumer Price Index,1963,5,30.51
+Consumer Price Index,1963,6,30.61
+Consumer Price Index,1963,7,30.69
+Consumer Price Index,1963,8,30.75
+Consumer Price Index,1963,9,30.72
+Consumer Price Index,1963,10,30.75
+Consumer Price Index,1963,11,30.78
+Consumer Price Index,1963,12,30.88
+Unemployment Level,1963,1,4074
+Unemployment Level,1963,2,4238
+Unemployment Level,1963,3,4072
+Unemployment Level,1963,4,4055
+Unemployment Level,1963,5,4217
+Unemployment Level,1963,6,3977
+Unemployment Level,1963,7,4051
+Unemployment Level,1963,8,3878
+Unemployment Level,1963,9,3957
+Unemployment Level,1963,10,3987
+Unemployment Level,1963,11,4151
+Unemployment Level,1963,12,3975
+Civilian Labor Force,1963,1,71277
+Civilian Labor Force,1963,4,71718
+Civilian Labor Force,1963,7,71958
+Civilian Labor Force,1963,10,72296
+Consumer Price Index,1964,1,30.94
+Consumer Price Index,1964,2,30.91
+Consumer Price Index,1964,3,30.94
+Consumer Price Index,1964,4,30.95
+Consumer Price Index,1964,5,30.98
+Consumer Price Index,1964,6,31.01
+Consumer Price Index,1964,7,31.02
+Consumer Price Index,1964,8,31.05
+Consumer Price Index,1964,9,31.08
+Consumer Price Index,1964,10,31.12
+Consumer Price Index,1964,11,31.21
+Consumer Price Index,1964,12,31.25
+Unemployment Level,1964,1,4029
+Unemployment Level,1964,2,3932
+Unemployment Level,1964,3,3950
+Unemployment Level,1964,4,3918
+Unemployment Level,1964,5,3764
+Unemployment Level,1964,6,3814
+Unemployment Level,1964,7,3608
+Unemployment Level,1964,8,3655
+Unemployment Level,1964,9,3712
+Unemployment Level,1964,10,3726
+Unemployment Level,1964,11,3551
+Unemployment Level,1964,12,3651
+Civilian Labor Force,1964,1,72584
+Civilian Labor Force,1964,4,73234
+Civilian Labor Force,1964,7,73138
+Civilian Labor Force,1964,10,73353
+Consumer Price Index,1965,1,31.28
+Consumer Price Index,1965,2,31.28
+Consumer Price Index,1965,3,31.31
+Consumer Price Index,1965,4,31.38
+Consumer Price Index,1965,5,31.48
+Consumer Price Index,1965,6,31.61
+Consumer Price Index,1965,7,31.58
+Consumer Price Index,1965,8,31.55
+Consumer Price Index,1965,9,31.62
+Consumer Price Index,1965,10,31.65
+Consumer Price Index,1965,11,31.75
+Consumer Price Index,1965,12,31.85
+Unemployment Level,1965,1,3572
+Unemployment Level,1965,2,3730
+Unemployment Level,1965,3,3510
+Unemployment Level,1965,4,3595
+Unemployment Level,1965,5,3432
+Unemployment Level,1965,6,3387
+Unemployment Level,1965,7,3301
+Unemployment Level,1965,8,3254
+Unemployment Level,1965,9,3216
+Unemployment Level,1965,10,3143
+Unemployment Level,1965,11,3073
+Unemployment Level,1965,12,3031
+Civilian Labor Force,1965,1,73792
+Civilian Labor Force,1965,4,74369
+Civilian Labor Force,1965,7,74626
+Civilian Labor Force,1965,10,74909
+Consumer Price Index,1966,1,31.88
+Consumer Price Index,1966,2,32.08
+Consumer Price Index,1966,3,32.18
+Consumer Price Index,1966,4,32.28
+Consumer Price Index,1966,5,32.35
+Consumer Price Index,1966,6,32.38
+Consumer Price Index,1966,7,32.45
+Consumer Price Index,1966,8,32.65
+Consumer Price Index,1966,9,32.75
+Consumer Price Index,1966,10,32.85
+Consumer Price Index,1966,11,32.88
+Consumer Price Index,1966,12,32.92
+Unemployment Level,1966,1,2988
+Unemployment Level,1966,2,2820
+Unemployment Level,1966,3,2887
+Unemployment Level,1966,4,2828
+Unemployment Level,1966,5,2950
+Unemployment Level,1966,6,2872
+Unemployment Level,1966,7,2876
+Unemployment Level,1966,8,2900
+Unemployment Level,1966,9,2798
+Unemployment Level,1966,10,2798
+Unemployment Level,1966,11,2770
+Unemployment Level,1966,12,2912
+Civilian Labor Force,1966,1,75072
+Civilian Labor Force,1966,4,75477
+Civilian Labor Force,1966,7,75946
+Civilian Labor Force,1966,10,76483
+Consumer Price Index,1967,1,32.9
+Consumer Price Index,1967,2,33
+Consumer Price Index,1967,3,33
+Consumer Price Index,1967,4,33.1
+Consumer Price Index,1967,5,33.1
+Consumer Price Index,1967,6,33.3
+Consumer Price Index,1967,7,33.4
+Consumer Price Index,1967,8,33.5
+Consumer Price Index,1967,9,33.6
+Consumer Price Index,1967,10,33.7
+Consumer Price Index,1967,11,33.9
+Consumer Price Index,1967,12,34
+Unemployment Level,1967,1,2968
+Unemployment Level,1967,2,2915
+Unemployment Level,1967,3,2889
+Unemployment Level,1967,4,2895
+Unemployment Level,1967,5,2929
+Unemployment Level,1967,6,2992
+Unemployment Level,1967,7,2944
+Unemployment Level,1967,8,2945
+Unemployment Level,1967,9,2958
+Unemployment Level,1967,10,3143
+Unemployment Level,1967,11,3066
+Unemployment Level,1967,12,3018
+Civilian Labor Force,1967,1,76496
+Civilian Labor Force,1967,4,76940
+Civilian Labor Force,1967,7,77663
+Civilian Labor Force,1967,10,78292
+Consumer Price Index,1968,1,34.1
+Consumer Price Index,1968,2,34.2
+Consumer Price Index,1968,3,34.3
+Consumer Price Index,1968,4,34.4
+Consumer Price Index,1968,5,34.5
+Consumer Price Index,1968,6,34.7
+Consumer Price Index,1968,7,34.9
+Consumer Price Index,1968,8,35
+Consumer Price Index,1968,9,35.1
+Consumer Price Index,1968,10,35.3
+Consumer Price Index,1968,11,35.4
+Consumer Price Index,1968,12,35.6
+Unemployment Level,1968,1,2878
+Unemployment Level,1968,2,3001
+Unemployment Level,1968,3,2877
+Unemployment Level,1968,4,2709
+Unemployment Level,1968,5,2740
+Unemployment Level,1968,6,2938
+Unemployment Level,1968,7,2883
+Unemployment Level,1968,8,2768
+Unemployment Level,1968,9,2686
+Unemployment Level,1968,10,2689
+Unemployment Level,1968,11,2715
+Unemployment Level,1968,12,2685
+Civilian Labor Force,1968,1,78021
+Civilian Labor Force,1968,4,78746
+Civilian Labor Force,1968,7,78880
+Civilian Labor Force,1968,10,79195
+Consumer Price Index,1969,1,35.7
+Consumer Price Index,1969,2,35.8
+Consumer Price Index,1969,3,36.1
+Consumer Price Index,1969,4,36.3
+Consumer Price Index,1969,5,36.4
+Consumer Price Index,1969,6,36.6
+Consumer Price Index,1969,7,36.8
+Consumer Price Index,1969,8,36.9
+Consumer Price Index,1969,9,37.1
+Consumer Price Index,1969,10,37.3
+Consumer Price Index,1969,11,37.5
+Consumer Price Index,1969,12,37.7
+Unemployment Level,1969,1,2718
+Unemployment Level,1969,2,2692
+Unemployment Level,1969,3,2712
+Unemployment Level,1969,4,2758
+Unemployment Level,1969,5,2713
+Unemployment Level,1969,6,2816
+Unemployment Level,1969,7,2868
+Unemployment Level,1969,8,2856
+Unemployment Level,1969,9,3040
+Unemployment Level,1969,10,3049
+Unemployment Level,1969,11,2856
+Unemployment Level,1969,12,2884
+Civilian Labor Force,1969,1,79874
+Civilian Labor Force,1969,4,80367
+Civilian Labor Force,1969,7,81074
+Civilian Labor Force,1969,10,81505
+Consumer Price Index,1970,1,37.9
+Consumer Price Index,1970,2,38.1
+Consumer Price Index,1970,3,38.3
+Consumer Price Index,1970,4,38.5
+Consumer Price Index,1970,5,38.6
+Consumer Price Index,1970,6,38.8
+Consumer Price Index,1970,7,38.9
+Consumer Price Index,1970,8,39
+Consumer Price Index,1970,9,39.2
+Consumer Price Index,1970,10,39.4
+Consumer Price Index,1970,11,39.6
+Consumer Price Index,1970,12,39.8
+Unemployment Level,1970,1,3201
+Unemployment Level,1970,2,3453
+Unemployment Level,1970,3,3635
+Unemployment Level,1970,4,3797
+Unemployment Level,1970,5,3919
+Unemployment Level,1970,6,4071
+Unemployment Level,1970,7,4175
+Unemployment Level,1970,8,4256
+Unemployment Level,1970,9,4456
+Unemployment Level,1970,10,4591
+Unemployment Level,1970,11,4898
+Unemployment Level,1970,12,5076
+Civilian Labor Force,1970,1,82210
+Civilian Labor Force,1970,4,82565
+Civilian Labor Force,1970,7,82912
+Civilian Labor Force,1970,10,83498
+Consumer Price Index,1971,1,39.9
+Consumer Price Index,1971,2,39.9
+Consumer Price Index,1971,3,40
+Consumer Price Index,1971,4,40.1
+Consumer Price Index,1971,5,40.3
+Consumer Price Index,1971,6,40.5
+Consumer Price Index,1971,7,40.6
+Consumer Price Index,1971,8,40.7
+Consumer Price Index,1971,9,40.8
+Consumer Price Index,1971,10,40.9
+Consumer Price Index,1971,11,41
+Consumer Price Index,1971,12,41.1
+Unemployment Level,1971,1,4986
+Unemployment Level,1971,2,4903
+Unemployment Level,1971,3,4987
+Unemployment Level,1971,4,4959
+Unemployment Level,1971,5,4996
+Unemployment Level,1971,6,4949
+Unemployment Level,1971,7,5035
+Unemployment Level,1971,8,5134
+Unemployment Level,1971,9,5042
+Unemployment Level,1971,10,4954
+Unemployment Level,1971,11,5161
+Unemployment Level,1971,12,5154
+Civilian Labor Force,1971,1,83676
+Civilian Labor Force,1971,4,83929
+Civilian Labor Force,1971,7,84581
+Civilian Labor Force,1971,10,85318
+Consumer Price Index,1972,1,41.2
+Consumer Price Index,1972,2,41.4
+Consumer Price Index,1972,3,41.4
+Consumer Price Index,1972,4,41.5
+Consumer Price Index,1972,5,41.6
+Consumer Price Index,1972,6,41.7
+Consumer Price Index,1972,7,41.8
+Consumer Price Index,1972,8,41.9
+Consumer Price Index,1972,9,42.1
+Consumer Price Index,1972,10,42.2
+Consumer Price Index,1972,11,42.4
+Consumer Price Index,1972,12,42.5
+Unemployment Level,1972,1,5019
+Unemployment Level,1972,2,4928
+Unemployment Level,1972,3,5038
+Unemployment Level,1972,4,4959
+Unemployment Level,1972,5,4922
+Unemployment Level,1972,6,4923
+Unemployment Level,1972,7,4913
+Unemployment Level,1972,8,4939
+Unemployment Level,1972,9,4849
+Unemployment Level,1972,10,4875
+Unemployment Level,1972,11,4602
+Unemployment Level,1972,12,4543
+Civilian Labor Force,1972,1,86208
+Civilian Labor Force,1972,4,86810
+Civilian Labor Force,1972,7,87351
+Civilian Labor Force,1972,10,87675
+Consumer Price Index,1973,1,42.7
+Consumer Price Index,1973,2,43
+Consumer Price Index,1973,3,43.4
+Consumer Price Index,1973,4,43.7
+Consumer Price Index,1973,5,43.9
+Consumer Price Index,1973,6,44.2
+Consumer Price Index,1973,7,44.2
+Consumer Price Index,1973,8,45
+Consumer Price Index,1973,9,45.2
+Consumer Price Index,1973,10,45.6
+Consumer Price Index,1973,11,45.9
+Consumer Price Index,1973,12,46.3
+Unemployment Level,1973,1,4326
+Unemployment Level,1973,2,4452
+Unemployment Level,1973,3,4394
+Unemployment Level,1973,4,4459
+Unemployment Level,1973,5,4329
+Unemployment Level,1973,6,4363
+Unemployment Level,1973,7,4305
+Unemployment Level,1973,8,4305
+Unemployment Level,1973,9,4350
+Unemployment Level,1973,10,4144
+Unemployment Level,1973,11,4396
+Unemployment Level,1973,12,4489
+Civilian Labor Force,1973,1,88232
+Civilian Labor Force,1973,4,89181
+Civilian Labor Force,1973,7,89650
+Civilian Labor Force,1973,10,90579
+Consumer Price Index,1974,1,46.8
+Consumer Price Index,1974,2,47.3
+Consumer Price Index,1974,3,47.8
+Consumer Price Index,1974,4,48.1
+Consumer Price Index,1974,5,48.6
+Consumer Price Index,1974,6,49
+Consumer Price Index,1974,7,49.3
+Consumer Price Index,1974,8,49.9
+Consumer Price Index,1974,9,50.6
+Consumer Price Index,1974,10,51
+Consumer Price Index,1974,11,51.5
+Consumer Price Index,1974,12,51.9
+Unemployment Level,1974,1,4644
+Unemployment Level,1974,2,4731
+Unemployment Level,1974,3,4634
+Unemployment Level,1974,4,4618
+Unemployment Level,1974,5,4705
+Unemployment Level,1974,6,4927
+Unemployment Level,1974,7,5063
+Unemployment Level,1974,8,5022
+Unemployment Level,1974,9,5437
+Unemployment Level,1974,10,5523
+Unemployment Level,1974,11,6140
+Unemployment Level,1974,12,6636
+Civilian Labor Force,1974,1,91379
+Civilian Labor Force,1974,4,91584
+Civilian Labor Force,1974,7,92253
+Civilian Labor Force,1974,10,92688
+Consumer Price Index,1975,1,52.3
+Consumer Price Index,1975,2,52.6
+Consumer Price Index,1975,3,52.8
+Consumer Price Index,1975,4,53
+Consumer Price Index,1975,5,53.1
+Consumer Price Index,1975,6,53.5
+Consumer Price Index,1975,7,54
+Consumer Price Index,1975,8,54.2
+Consumer Price Index,1975,9,54.6
+Consumer Price Index,1975,10,54.9
+Consumer Price Index,1975,11,55.3
+Consumer Price Index,1975,12,55.6
+Unemployment Level,1975,1,7501
+Unemployment Level,1975,2,7520
+Unemployment Level,1975,3,7978
+Unemployment Level,1975,4,8210
+Unemployment Level,1975,5,8433
+Unemployment Level,1975,6,8220
+Unemployment Level,1975,7,8127
+Unemployment Level,1975,8,7928
+Unemployment Level,1975,9,7923
+Unemployment Level,1975,10,7897
+Unemployment Level,1975,11,7794
+Unemployment Level,1975,12,7744
+Civilian Labor Force,1975,1,93023
+Civilian Labor Force,1975,4,93619
+Civilian Labor Force,1975,7,94128
+Civilian Labor Force,1975,10,94309
+Consumer Price Index,1976,1,55.8
+Consumer Price Index,1976,2,55.9
+Consumer Price Index,1976,3,56
+Consumer Price Index,1976,4,56.1
+Consumer Price Index,1976,5,56.4
+Consumer Price Index,1976,6,56.7
+Consumer Price Index,1976,7,57
+Consumer Price Index,1976,8,57.3
+Consumer Price Index,1976,9,57.6
+Consumer Price Index,1976,10,57.9
+Consumer Price Index,1976,11,58.1
+Consumer Price Index,1976,12,58.4
+Unemployment Level,1976,1,7534
+Unemployment Level,1976,2,7326
+Unemployment Level,1976,3,7230
+Unemployment Level,1976,4,7330
+Unemployment Level,1976,5,7053
+Unemployment Level,1976,6,7322
+Unemployment Level,1976,7,7490
+Unemployment Level,1976,8,7518
+Unemployment Level,1976,9,7380
+Unemployment Level,1976,10,7430
+Unemployment Level,1976,11,7620
+Unemployment Level,1976,12,7545
+Civilian Labor Force,1976,1,95049
+Civilian Labor Force,1976,4,95826
+Civilian Labor Force,1976,7,96626
+Civilian Labor Force,1976,10,97102
+Consumer Price Index,1977,1,58.7
+Consumer Price Index,1977,2,59.3
+Consumer Price Index,1977,3,59.6
+Consumer Price Index,1977,4,60
+Consumer Price Index,1977,5,60.2
+Consumer Price Index,1977,6,60.5
+Consumer Price Index,1977,7,60.8
+Consumer Price Index,1977,8,61.1
+Consumer Price Index,1977,9,61.3
+Consumer Price Index,1977,10,61.6
+Consumer Price Index,1977,11,62
+Consumer Price Index,1977,12,62.3
+Unemployment Level,1977,1,7280
+Unemployment Level,1977,2,7443
+Unemployment Level,1977,3,7307
+Unemployment Level,1977,4,7059
+Unemployment Level,1977,5,6911
+Unemployment Level,1977,6,7134
+Unemployment Level,1977,7,6829
+Unemployment Level,1977,8,6925
+Unemployment Level,1977,9,6751
+Unemployment Level,1977,10,6763
+Unemployment Level,1977,11,6815
+Unemployment Level,1977,12,6386
+Civilian Labor Force,1977,1,97703
+Civilian Labor Force,1977,4,98696
+Civilian Labor Force,1977,7,99244
+Civilian Labor Force,1977,10,100294
+Consumer Price Index,1978,1,62.7
+Consumer Price Index,1978,2,63
+Consumer Price Index,1978,3,63.4
+Consumer Price Index,1978,4,63.9
+Consumer Price Index,1978,5,64.5
+Consumer Price Index,1978,6,65
+Consumer Price Index,1978,7,65.5
+Consumer Price Index,1978,8,65.9
+Consumer Price Index,1978,9,66.5
+Consumer Price Index,1978,10,67.1
+Consumer Price Index,1978,11,67.5
+Consumer Price Index,1978,12,67.9
+Unemployment Level,1978,1,6489
+Unemployment Level,1978,2,6318
+Unemployment Level,1978,3,6337
+Unemployment Level,1978,4,6180
+Unemployment Level,1978,5,6127
+Unemployment Level,1978,6,6028
+Unemployment Level,1978,7,6309
+Unemployment Level,1978,8,6080
+Unemployment Level,1978,9,6125
+Unemployment Level,1978,10,5947
+Unemployment Level,1978,11,6077
+Unemployment Level,1978,12,6228
+Civilian Labor Force,1978,1,100934
+Civilian Labor Force,1978,4,101947
+Civilian Labor Force,1978,7,102568
+Civilian Labor Force,1978,10,103484
+Consumer Price Index,1979,1,68.5
+Consumer Price Index,1979,2,69.2
+Consumer Price Index,1979,3,69.9
+Consumer Price Index,1979,4,70.6
+Consumer Price Index,1979,5,71.4
+Consumer Price Index,1979,6,72.2
+Consumer Price Index,1979,7,73
+Consumer Price Index,1979,8,73.7
+Consumer Price Index,1979,9,74.4
+Consumer Price Index,1979,10,75.2
+Consumer Price Index,1979,11,76
+Consumer Price Index,1979,12,76.9
+Unemployment Level,1979,1,6109
+Unemployment Level,1979,2,6173
+Unemployment Level,1979,3,6109
+Unemployment Level,1979,4,6069
+Unemployment Level,1979,5,5840
+Unemployment Level,1979,6,5959
+Unemployment Level,1979,7,5996
+Unemployment Level,1979,8,6320
+Unemployment Level,1979,9,6190
+Unemployment Level,1979,10,6296
+Unemployment Level,1979,11,6238
+Unemployment Level,1979,12,6325
+Civilian Labor Force,1979,1,104383
+Civilian Labor Force,1979,4,104327
+Civilian Labor Force,1979,7,105209
+Civilian Labor Force,1979,10,105923
+Consumer Price Index,1980,1,78
+Consumer Price Index,1980,2,79
+Consumer Price Index,1980,3,80.1
+Consumer Price Index,1980,4,80.9
+Consumer Price Index,1980,5,81.7
+Consumer Price Index,1980,6,82.5
+Consumer Price Index,1980,7,82.6
+Consumer Price Index,1980,8,83.2
+Consumer Price Index,1980,9,83.9
+Consumer Price Index,1980,10,84.7
+Consumer Price Index,1980,11,85.6
+Consumer Price Index,1980,12,86.4
+Unemployment Level,1980,1,6683
+Unemployment Level,1980,2,6702
+Unemployment Level,1980,3,6729
+Unemployment Level,1980,4,7358
+Unemployment Level,1980,5,7984
+Unemployment Level,1980,6,8098
+Unemployment Level,1980,7,8363
+Unemployment Level,1980,8,8281
+Unemployment Level,1980,9,8021
+Unemployment Level,1980,10,8088
+Unemployment Level,1980,11,8023
+Unemployment Level,1980,12,7718
+Civilian Labor Force,1980,1,106567
+Civilian Labor Force,1980,4,106767
+Civilian Labor Force,1980,7,107121
+Civilian Labor Force,1980,10,107442
+Consumer Price Index,1981,1,87.2
+Consumer Price Index,1981,2,88
+Consumer Price Index,1981,3,88.6
+Consumer Price Index,1981,4,89.1
+Consumer Price Index,1981,5,89.7
+Consumer Price Index,1981,6,90.5
+Consumer Price Index,1981,7,91.5
+Consumer Price Index,1981,8,92.2
+Consumer Price Index,1981,9,93.1
+Consumer Price Index,1981,10,93.4
+Consumer Price Index,1981,11,93.8
+Consumer Price Index,1981,12,94.1
+Unemployment Level,1981,1,8071
+Unemployment Level,1981,2,8051
+Unemployment Level,1981,3,7982
+Unemployment Level,1981,4,7869
+Unemployment Level,1981,5,8174
+Unemployment Level,1981,6,8098
+Unemployment Level,1981,7,7863
+Unemployment Level,1981,8,8036
+Unemployment Level,1981,9,8230
+Unemployment Level,1981,10,8646
+Unemployment Level,1981,11,9029
+Unemployment Level,1981,12,9267
+Civilian Labor Force,1981,1,108274
+Civilian Labor Force,1981,4,108848
+Civilian Labor Force,1981,7,108525
+Civilian Labor Force,1981,10,109057
+Consumer Price Index,1982,1,94.4
+Consumer Price Index,1982,2,94.7
+Consumer Price Index,1982,3,94.7
+Consumer Price Index,1982,4,95
+Consumer Price Index,1982,5,95.9
+Consumer Price Index,1982,6,97
+Consumer Price Index,1982,7,97.5
+Consumer Price Index,1982,8,97.7
+Consumer Price Index,1982,9,97.7
+Consumer Price Index,1982,10,98.1
+Consumer Price Index,1982,11,98
+Consumer Price Index,1982,12,97.7
+Unemployment Level,1982,1,9397
+Unemployment Level,1982,2,9705
+Unemployment Level,1982,3,9895
+Unemployment Level,1982,4,10244
+Unemployment Level,1982,5,10335
+Unemployment Level,1982,6,10538
+Unemployment Level,1982,7,10849
+Unemployment Level,1982,8,10881
+Unemployment Level,1982,9,11217
+Unemployment Level,1982,10,11529
+Unemployment Level,1982,11,11938
+Unemployment Level,1982,12,12051
+Civilian Labor Force,1982,1,109374
+Civilian Labor Force,1982,4,110117
+Civilian Labor Force,1982,7,110526
+Civilian Labor Force,1982,10,110959
+Consumer Price Index,1983,1,97.9
+Consumer Price Index,1983,2,98
+Consumer Price Index,1983,3,98.1
+Consumer Price Index,1983,4,98.8
+Consumer Price Index,1983,5,99.2
+Consumer Price Index,1983,6,99.4
+Consumer Price Index,1983,7,99.8
+Consumer Price Index,1983,8,100.1
+Consumer Price Index,1983,9,100.4
+Consumer Price Index,1983,10,100.8
+Consumer Price Index,1983,11,101.1
+Consumer Price Index,1983,12,101.4
+Unemployment Level,1983,1,11534
+Unemployment Level,1983,2,11545
+Unemployment Level,1983,3,11408
+Unemployment Level,1983,4,11268
+Unemployment Level,1983,5,11154
+Unemployment Level,1983,6,11246
+Unemployment Level,1983,7,10548
+Unemployment Level,1983,8,10623
+Unemployment Level,1983,9,10282
+Unemployment Level,1983,10,9887
+Unemployment Level,1983,11,9499
+Unemployment Level,1983,12,9331
+Civilian Labor Force,1983,1,110639
+Civilian Labor Force,1983,4,111168
+Civilian Labor Force,1983,7,112095
+Civilian Labor Force,1983,10,112160
+Consumer Price Index,1984,1,102.1
+Consumer Price Index,1984,2,102.6
+Consumer Price Index,1984,3,102.9
+Consumer Price Index,1984,4,103.3
+Consumer Price Index,1984,5,103.5
+Consumer Price Index,1984,6,103.7
+Consumer Price Index,1984,7,104.1
+Consumer Price Index,1984,8,104.4
+Consumer Price Index,1984,9,104.7
+Consumer Price Index,1984,10,105.1
+Consumer Price Index,1984,11,105.3
+Consumer Price Index,1984,12,105.5
+Unemployment Level,1984,1,9008
+Unemployment Level,1984,2,8791
+Unemployment Level,1984,3,8746
+Unemployment Level,1984,4,8762
+Unemployment Level,1984,5,8456
+Unemployment Level,1984,6,8226
+Unemployment Level,1984,7,8537
+Unemployment Level,1984,8,8519
+Unemployment Level,1984,9,8367
+Unemployment Level,1984,10,8381
+Unemployment Level,1984,11,8198
+Unemployment Level,1984,12,8358
+Civilian Labor Force,1984,1,112512
+Civilian Labor Force,1984,4,113521
+Civilian Labor Force,1984,7,113837
+Civilian Labor Force,1984,10,114257
+Consumer Price Index,1985,1,105.7
+Consumer Price Index,1985,2,106.3
+Consumer Price Index,1985,3,106.8
+Consumer Price Index,1985,4,107
+Consumer Price Index,1985,5,107.2
+Consumer Price Index,1985,6,107.5
+Consumer Price Index,1985,7,107.7
+Consumer Price Index,1985,8,107.9
+Consumer Price Index,1985,9,108.1
+Consumer Price Index,1985,10,108.5
+Consumer Price Index,1985,11,109
+Consumer Price Index,1985,12,109.5
+Unemployment Level,1985,1,8423
+Unemployment Level,1985,2,8321
+Unemployment Level,1985,3,8339
+Unemployment Level,1985,4,8395
+Unemployment Level,1985,5,8302
+Unemployment Level,1985,6,8460
+Unemployment Level,1985,7,8513
+Unemployment Level,1985,8,8196
+Unemployment Level,1985,9,8248
+Unemployment Level,1985,10,8298
+Unemployment Level,1985,11,8128
+Unemployment Level,1985,12,8138
+Civilian Labor Force,1985,1,114976
+Civilian Labor Force,1985,4,115177
+Civilian Labor Force,1985,7,115505
+Civilian Labor Force,1985,10,116211
+Consumer Price Index,1986,1,109.9
+Consumer Price Index,1986,2,109.7
+Consumer Price Index,1986,3,109.1
+Consumer Price Index,1986,4,108.7
+Consumer Price Index,1986,5,109
+Consumer Price Index,1986,6,109.4
+Consumer Price Index,1986,7,109.5
+Consumer Price Index,1986,8,109.6
+Consumer Price Index,1986,9,110
+Consumer Price Index,1986,10,110.2
+Consumer Price Index,1986,11,110.4
+Consumer Price Index,1986,12,110.8
+Unemployment Level,1986,1,7795
+Unemployment Level,1986,2,8402
+Unemployment Level,1986,3,8383
+Unemployment Level,1986,4,8364
+Unemployment Level,1986,5,8439
+Unemployment Level,1986,6,8508
+Unemployment Level,1986,7,8319
+Unemployment Level,1986,8,8135
+Unemployment Level,1986,9,8310
+Unemployment Level,1986,10,8243
+Unemployment Level,1986,11,8159
+Unemployment Level,1986,12,7883
+Civilian Labor Force,1986,1,116928
+Civilian Labor Force,1986,4,117643
+Civilian Labor Force,1986,7,118225
+Civilian Labor Force,1986,10,118587
+Consumer Price Index,1987,1,111.4
+Consumer Price Index,1987,2,111.8
+Consumer Price Index,1987,3,112.2
+Consumer Price Index,1987,4,112.7
+Consumer Price Index,1987,5,113
+Consumer Price Index,1987,6,113.5
+Consumer Price Index,1987,7,113.8
+Consumer Price Index,1987,8,114.3
+Consumer Price Index,1987,9,114.7
+Consumer Price Index,1987,10,115
+Consumer Price Index,1987,11,115.4
+Consumer Price Index,1987,12,115.6
+Unemployment Level,1987,1,7892
+Unemployment Level,1987,2,7865
+Unemployment Level,1987,3,7862
+Unemployment Level,1987,4,7542
+Unemployment Level,1987,5,7574
+Unemployment Level,1987,6,7398
+Unemployment Level,1987,7,7268
+Unemployment Level,1987,8,7261
+Unemployment Level,1987,9,7102
+Unemployment Level,1987,10,7227
+Unemployment Level,1987,11,7035
+Unemployment Level,1987,12,6936
+Civilian Labor Force,1987,1,119079
+Civilian Labor Force,1987,4,119663
+Civilian Labor Force,1987,7,120077
+Civilian Labor Force,1987,10,120593
+Consumer Price Index,1988,1,116
+Consumer Price Index,1988,2,116.2
+Consumer Price Index,1988,3,116.5
+Consumer Price Index,1988,4,117.2
+Consumer Price Index,1988,5,117.5
+Consumer Price Index,1988,6,118
+Consumer Price Index,1988,7,118.5
+Consumer Price Index,1988,8,119
+Consumer Price Index,1988,9,119.5
+Consumer Price Index,1988,10,119.9
+Consumer Price Index,1988,11,120.3
+Consumer Price Index,1988,12,120.7
+Unemployment Level,1988,1,6953
+Unemployment Level,1988,2,6929
+Unemployment Level,1988,3,6876
+Unemployment Level,1988,4,6601
+Unemployment Level,1988,5,6779
+Unemployment Level,1988,6,6546
+Unemployment Level,1988,7,6605
+Unemployment Level,1988,8,6843
+Unemployment Level,1988,9,6604
+Unemployment Level,1988,10,6568
+Unemployment Level,1988,11,6537
+Unemployment Level,1988,12,6518
+Civilian Labor Force,1988,1,121013
+Civilian Labor Force,1988,4,121265
+Civilian Labor Force,1988,7,121917
+Civilian Labor Force,1988,10,122488
+Consumer Price Index,1989,1,121.2
+Consumer Price Index,1989,2,121.6
+Consumer Price Index,1989,3,122.2
+Consumer Price Index,1989,4,123.1
+Consumer Price Index,1989,5,123.7
+Consumer Price Index,1989,6,124.1
+Consumer Price Index,1989,7,124.5
+Consumer Price Index,1989,8,124.5
+Consumer Price Index,1989,9,124.8
+Consumer Price Index,1989,10,125.4
+Consumer Price Index,1989,11,125.9
+Consumer Price Index,1989,12,126.3
+Unemployment Level,1989,1,6682
+Unemployment Level,1989,2,6359
+Unemployment Level,1989,3,6205
+Unemployment Level,1989,4,6468
+Unemployment Level,1989,5,6375
+Unemployment Level,1989,6,6577
+Unemployment Level,1989,7,6495
+Unemployment Level,1989,8,6511
+Unemployment Level,1989,9,6590
+Unemployment Level,1989,10,6630
+Unemployment Level,1989,11,6725
+Unemployment Level,1989,12,6667
+Civilian Labor Force,1989,1,123251
+Civilian Labor Force,1989,4,123678
+Civilian Labor Force,1989,7,124026
+Civilian Labor Force,1989,10,124448
+Consumer Price Index,1990,1,127.5
+Consumer Price Index,1990,2,128
+Consumer Price Index,1990,3,128.6
+Consumer Price Index,1990,4,128.9
+Consumer Price Index,1990,5,129.1
+Consumer Price Index,1990,6,129.9
+Consumer Price Index,1990,7,130.5
+Consumer Price Index,1990,8,131.6
+Consumer Price Index,1990,9,132.5
+Consumer Price Index,1990,10,133.4
+Consumer Price Index,1990,11,133.7
+Consumer Price Index,1990,12,134.2
+Unemployment Level,1990,1,6752
+Unemployment Level,1990,2,6651
+Unemployment Level,1990,3,6598
+Unemployment Level,1990,4,6797
+Unemployment Level,1990,5,6742
+Unemployment Level,1990,6,6590
+Unemployment Level,1990,7,6922
+Unemployment Level,1990,8,7188
+Unemployment Level,1990,9,7368
+Unemployment Level,1990,10,7459
+Unemployment Level,1990,11,7764
+Unemployment Level,1990,12,7901
+Civilian Labor Force,1990,1,125781
+Civilian Labor Force,1990,4,125705
+Civilian Labor Force,1990,7,125871
+Civilian Labor Force,1990,10,126069
+Consumer Price Index,1991,1,134.7
+Consumer Price Index,1991,2,134.8
+Consumer Price Index,1991,3,134.8
+Consumer Price Index,1991,4,135.1
+Consumer Price Index,1991,5,135.6
+Consumer Price Index,1991,6,136
+Consumer Price Index,1991,7,136.2
+Consumer Price Index,1991,8,136.6
+Consumer Price Index,1991,9,137
+Consumer Price Index,1991,10,137.2
+Consumer Price Index,1991,11,137.8
+Consumer Price Index,1991,12,138.2
+Unemployment Level,1991,1,8015
+Unemployment Level,1991,2,8265
+Unemployment Level,1991,3,8586
+Unemployment Level,1991,4,8439
+Unemployment Level,1991,5,8736
+Unemployment Level,1991,6,8692
+Unemployment Level,1991,7,8586
+Unemployment Level,1991,8,8666
+Unemployment Level,1991,9,8722
+Unemployment Level,1991,10,8842
+Unemployment Level,1991,11,8931
+Unemployment Level,1991,12,9198
+Civilian Labor Force,1991,1,126071
+Civilian Labor Force,1991,4,126352
+Civilian Labor Force,1991,7,126318
+Civilian Labor Force,1991,10,126669
+Consumer Price Index,1992,1,138.3
+Consumer Price Index,1992,2,138.6
+Consumer Price Index,1992,3,139.1
+Consumer Price Index,1992,4,139.4
+Consumer Price Index,1992,5,139.7
+Consumer Price Index,1992,6,140.1
+Consumer Price Index,1992,7,140.5
+Consumer Price Index,1992,8,140.8
+Consumer Price Index,1992,9,141.1
+Consumer Price Index,1992,10,141.7
+Consumer Price Index,1992,11,142.1
+Consumer Price Index,1992,12,142.3
+Unemployment Level,1992,1,9283
+Unemployment Level,1992,2,9454
+Unemployment Level,1992,3,9460
+Unemployment Level,1992,4,9415
+Unemployment Level,1992,5,9744
+Unemployment Level,1992,6,10040
+Unemployment Level,1992,7,9850
+Unemployment Level,1992,8,9787
+Unemployment Level,1992,9,9781
+Unemployment Level,1992,10,9398
+Unemployment Level,1992,11,9565
+Unemployment Level,1992,12,9557
+Civilian Labor Force,1992,1,127357
+Civilian Labor Force,1992,4,128140
+Civilian Labor Force,1992,7,128559
+Civilian Labor Force,1992,10,128340
+Consumer Price Index,1993,1,142.8
+Consumer Price Index,1993,2,143.1
+Consumer Price Index,1993,3,143.3
+Consumer Price Index,1993,4,143.8
+Consumer Price Index,1993,5,144.2
+Consumer Price Index,1993,6,144.3
+Consumer Price Index,1993,7,144.5
+Consumer Price Index,1993,8,144.8
+Consumer Price Index,1993,9,145
+Consumer Price Index,1993,10,145.6
+Consumer Price Index,1993,11,146
+Consumer Price Index,1993,12,146.3
+Unemployment Level,1993,1,9325
+Unemployment Level,1993,2,9183
+Unemployment Level,1993,3,9056
+Unemployment Level,1993,4,9110
+Unemployment Level,1993,5,9149
+Unemployment Level,1993,6,9121
+Unemployment Level,1993,7,8930
+Unemployment Level,1993,8,8763
+Unemployment Level,1993,9,8714
+Unemployment Level,1993,10,8750
+Unemployment Level,1993,11,8542
+Unemployment Level,1993,12,8477
+Civilian Labor Force,1993,1,128485
+Civilian Labor Force,1993,4,129086
+Civilian Labor Force,1993,7,129428
+Civilian Labor Force,1993,10,129742
+Consumer Price Index,1994,1,146.3
+Consumer Price Index,1994,2,146.7
+Consumer Price Index,1994,3,147.1
+Consumer Price Index,1994,4,147.2
+Consumer Price Index,1994,5,147.5
+Consumer Price Index,1994,6,147.9
+Consumer Price Index,1994,7,148.4
+Consumer Price Index,1994,8,149
+Consumer Price Index,1994,9,149.3
+Consumer Price Index,1994,10,149.4
+Consumer Price Index,1994,11,149.8
+Consumer Price Index,1994,12,150.1
+Unemployment Level,1994,1,8630
+Unemployment Level,1994,2,8583
+Unemployment Level,1994,3,8470
+Unemployment Level,1994,4,8331
+Unemployment Level,1994,5,7915
+Unemployment Level,1994,6,7927
+Unemployment Level,1994,7,7946
+Unemployment Level,1994,8,7933
+Unemployment Level,1994,9,7734
+Unemployment Level,1994,10,7632
+Unemployment Level,1994,11,7375
+Unemployment Level,1994,12,7230
+Civilian Labor Force,1994,1,130555
+Civilian Labor Force,1994,4,130654
+Civilian Labor Force,1994,7,131116
+Civilian Labor Force,1994,10,131862
+Consumer Price Index,1995,1,150.5
+Consumer Price Index,1995,2,150.9
+Consumer Price Index,1995,3,151.2
+Consumer Price Index,1995,4,151.8
+Consumer Price Index,1995,5,152.1
+Consumer Price Index,1995,6,152.4
+Consumer Price Index,1995,7,152.6
+Consumer Price Index,1995,8,152.9
+Consumer Price Index,1995,9,153.1
+Consumer Price Index,1995,10,153.5
+Consumer Price Index,1995,11,153.7
+Consumer Price Index,1995,12,153.9
+Unemployment Level,1995,1,7375
+Unemployment Level,1995,2,7187
+Unemployment Level,1995,3,7153
+Unemployment Level,1995,4,7645
+Unemployment Level,1995,5,7430
+Unemployment Level,1995,6,7427
+Unemployment Level,1995,7,7527
+Unemployment Level,1995,8,7484
+Unemployment Level,1995,9,7478
+Unemployment Level,1995,10,7328
+Unemployment Level,1995,11,7426
+Unemployment Level,1995,12,7423
+Civilian Labor Force,1995,1,132087
+Civilian Labor Force,1995,4,132130
+Civilian Labor Force,1995,7,132430
+Civilian Labor Force,1995,10,132614
+Consumer Price Index,1996,1,154.7
+Consumer Price Index,1996,2,155
+Consumer Price Index,1996,3,155.5
+Consumer Price Index,1996,4,156.1
+Consumer Price Index,1996,5,156.4
+Consumer Price Index,1996,6,156.7
+Consumer Price Index,1996,7,157
+Consumer Price Index,1996,8,157.2
+Consumer Price Index,1996,9,157.7
+Consumer Price Index,1996,10,158.2
+Consumer Price Index,1996,11,158.7
+Consumer Price Index,1996,12,159.1
+Unemployment Level,1996,1,7491
+Unemployment Level,1996,2,7313
+Unemployment Level,1996,3,7318
+Unemployment Level,1996,4,7415
+Unemployment Level,1996,5,7423
+Unemployment Level,1996,6,7095
+Unemployment Level,1996,7,7337
+Unemployment Level,1996,8,6882
+Unemployment Level,1996,9,6979
+Unemployment Level,1996,10,7031
+Unemployment Level,1996,11,7236
+Unemployment Level,1996,12,7253
+Civilian Labor Force,1996,1,132916
+Civilian Labor Force,1996,4,133591
+Civilian Labor Force,1996,7,134284
+Civilian Labor Force,1996,10,135014
+Consumer Price Index,1997,1,159.4
+Consumer Price Index,1997,2,159.7
+Consumer Price Index,1997,3,159.8
+Consumer Price Index,1997,4,159.9
+Consumer Price Index,1997,5,159.9
+Consumer Price Index,1997,6,160.2
+Consumer Price Index,1997,7,160.4
+Consumer Price Index,1997,8,160.8
+Consumer Price Index,1997,9,161.2
+Consumer Price Index,1997,10,161.5
+Consumer Price Index,1997,11,161.7
+Consumer Price Index,1997,12,161.8
+Unemployment Level,1997,1,7158
+Unemployment Level,1997,2,7102
+Unemployment Level,1997,3,7000
+Unemployment Level,1997,4,6873
+Unemployment Level,1997,5,6655
+Unemployment Level,1997,6,6799
+Unemployment Level,1997,7,6655
+Unemployment Level,1997,8,6608
+Unemployment Level,1997,9,6656
+Unemployment Level,1997,10,6454
+Unemployment Level,1997,11,6308
+Unemployment Level,1997,12,6476
+Civilian Labor Force,1997,1,135582
+Civilian Labor Force,1997,4,136115
+Civilian Labor Force,1997,7,136590
+Civilian Labor Force,1997,10,136916
+Consumer Price Index,1998,1,162
+Consumer Price Index,1998,2,162
+Consumer Price Index,1998,3,162
+Consumer Price Index,1998,4,162.2
+Consumer Price Index,1998,5,162.6
+Consumer Price Index,1998,6,162.8
+Consumer Price Index,1998,7,163.2
+Consumer Price Index,1998,8,163.4
+Consumer Price Index,1998,9,163.5
+Consumer Price Index,1998,10,163.9
+Consumer Price Index,1998,11,164.1
+Consumer Price Index,1998,12,164.4
+Unemployment Level,1998,1,6368
+Unemployment Level,1998,2,6306
+Unemployment Level,1998,3,6422
+Unemployment Level,1998,4,5941
+Unemployment Level,1998,5,6047
+Unemployment Level,1998,6,6212
+Unemployment Level,1998,7,6259
+Unemployment Level,1998,8,6179
+Unemployment Level,1998,9,6300
+Unemployment Level,1998,10,6280
+Unemployment Level,1998,11,6100
+Unemployment Level,1998,12,6032
+Civilian Labor Force,1998,1,137148
+Civilian Labor Force,1998,4,137326
+Civilian Labor Force,1998,7,137815
+Civilian Labor Force,1998,10,138431
+Consumer Price Index,1999,1,164.7
+Consumer Price Index,1999,2,164.7
+Consumer Price Index,1999,3,164.8
+Consumer Price Index,1999,4,165.9
+Consumer Price Index,1999,5,166
+Consumer Price Index,1999,6,166
+Consumer Price Index,1999,7,166.7
+Consumer Price Index,1999,8,167.1
+Consumer Price Index,1999,9,167.8
+Consumer Price Index,1999,10,168.1
+Consumer Price Index,1999,11,168.4
+Consumer Price Index,1999,12,168.8
+Unemployment Level,1999,1,5976
+Unemployment Level,1999,2,6111
+Unemployment Level,1999,3,5783
+Unemployment Level,1999,4,6004
+Unemployment Level,1999,5,5796
+Unemployment Level,1999,6,5951
+Unemployment Level,1999,7,6025
+Unemployment Level,1999,8,5838
+Unemployment Level,1999,9,5915
+Unemployment Level,1999,10,5778
+Unemployment Level,1999,11,5716
+Unemployment Level,1999,12,5653
+Civilian Labor Force,1999,1,138900
+Civilian Labor Force,1999,4,139132
+Civilian Labor Force,1999,7,139497
+Civilian Labor Force,1999,10,139991
+Consumer Price Index,2000,1,169.3
+Consumer Price Index,2000,2,170
+Consumer Price Index,2000,3,171
+Consumer Price Index,2000,4,170.9
+Consumer Price Index,2000,5,171.2
+Consumer Price Index,2000,6,172.2
+Consumer Price Index,2000,7,172.7
+Consumer Price Index,2000,8,172.7
+Consumer Price Index,2000,9,173.6
+Consumer Price Index,2000,10,173.9
+Consumer Price Index,2000,11,174.2
+Consumer Price Index,2000,12,174.6
+Unemployment Level,2000,1,5708
+Unemployment Level,2000,2,5858
+Unemployment Level,2000,3,5733
+Unemployment Level,2000,4,5481
+Unemployment Level,2000,5,5758
+Unemployment Level,2000,6,5651
+Unemployment Level,2000,7,5747
+Unemployment Level,2000,8,5853
+Unemployment Level,2000,9,5625
+Unemployment Level,2000,10,5534
+Unemployment Level,2000,11,5639
+Unemployment Level,2000,12,5634
+Civilian Labor Force,2000,1,142386
+Civilian Labor Force,2000,4,142577
+Civilian Labor Force,2000,7,142437
+Civilian Labor Force,2000,10,142944
+Consumer Price Index,2001,1,175.6
+Consumer Price Index,2001,2,176
+Consumer Price Index,2001,3,176.1
+Consumer Price Index,2001,4,176.4
+Consumer Price Index,2001,5,177.3
+Consumer Price Index,2001,6,177.7
+Consumer Price Index,2001,7,177.4
+Consumer Price Index,2001,8,177.4
+Consumer Price Index,2001,9,178.1
+Consumer Price Index,2001,10,177.6
+Consumer Price Index,2001,11,177.5
+Consumer Price Index,2001,12,177.4
+Unemployment Level,2001,1,6023
+Unemployment Level,2001,2,6089
+Unemployment Level,2001,3,6141
+Unemployment Level,2001,4,6271
+Unemployment Level,2001,5,6226
+Unemployment Level,2001,6,6484
+Unemployment Level,2001,7,6583
+Unemployment Level,2001,8,7042
+Unemployment Level,2001,9,7142
+Unemployment Level,2001,10,7694
+Unemployment Level,2001,11,8003
+Unemployment Level,2001,12,8258
+Civilian Labor Force,2001,1,143808
+Civilian Labor Force,2001,4,143415
+Civilian Labor Force,2001,7,143642
+Civilian Labor Force,2001,10,144210
+Consumer Price Index,2002,1,177.7
+Consumer Price Index,2002,2,178
+Consumer Price Index,2002,3,178.5
+Consumer Price Index,2002,4,179.3
+Consumer Price Index,2002,5,179.5
+Consumer Price Index,2002,6,179.6
+Consumer Price Index,2002,7,180
+Consumer Price Index,2002,8,180.5
+Consumer Price Index,2002,9,180.8
+Consumer Price Index,2002,10,181.2
+Consumer Price Index,2002,11,181.5
+Consumer Price Index,2002,12,181.8
+Unemployment Level,2002,1,8182
+Unemployment Level,2002,2,8215
+Unemployment Level,2002,3,8304
+Unemployment Level,2002,4,8599
+Unemployment Level,2002,5,8399
+Unemployment Level,2002,6,8393
+Unemployment Level,2002,7,8390
+Unemployment Level,2002,8,8304
+Unemployment Level,2002,9,8251
+Unemployment Level,2002,10,8307
+Unemployment Level,2002,11,8520
+Unemployment Level,2002,12,8640
+Civilian Labor Force,2002,1,144339
+Civilian Labor Force,2002,4,144824
+Civilian Labor Force,2002,7,145121
+Civilian Labor Force,2002,10,145140
+Consumer Price Index,2003,1,182.6
+Consumer Price Index,2003,2,183.6
+Consumer Price Index,2003,3,183.9
+Consumer Price Index,2003,4,183.2
+Consumer Price Index,2003,5,182.9
+Consumer Price Index,2003,6,183.1
+Consumer Price Index,2003,7,183.7
+Consumer Price Index,2003,8,184.5
+Consumer Price Index,2003,9,185.1
+Consumer Price Index,2003,10,184.9
+Consumer Price Index,2003,11,185
+Consumer Price Index,2003,12,185.5
+Unemployment Level,2003,1,8520
+Unemployment Level,2003,2,8618
+Unemployment Level,2003,3,8588
+Unemployment Level,2003,4,8842
+Unemployment Level,2003,5,8957
+Unemployment Level,2003,6,9266
+Unemployment Level,2003,7,9011
+Unemployment Level,2003,8,8896
+Unemployment Level,2003,9,8921
+Unemployment Level,2003,10,8732
+Unemployment Level,2003,11,8576
+Unemployment Level,2003,12,8317
+Civilian Labor Force,2003,1,146020
+Civilian Labor Force,2003,4,146677
+Civilian Labor Force,2003,7,146487
+Civilian Labor Force,2003,10,146815
+Consumer Price Index,2004,1,186.3
+Consumer Price Index,2004,2,186.7
+Consumer Price Index,2004,3,187.1
+Consumer Price Index,2004,4,187.4
+Consumer Price Index,2004,5,188.2
+Consumer Price Index,2004,6,188.9
+Consumer Price Index,2004,7,189.1
+Consumer Price Index,2004,8,189.2
+Consumer Price Index,2004,9,189.8
+Consumer Price Index,2004,10,190.8
+Consumer Price Index,2004,11,191.7
+Consumer Price Index,2004,12,191.7
+Unemployment Level,2004,1,8370
+Unemployment Level,2004,2,8167
+Unemployment Level,2004,3,8491
+Unemployment Level,2004,4,8170
+Unemployment Level,2004,5,8212
+Unemployment Level,2004,6,8286
+Unemployment Level,2004,7,8136
+Unemployment Level,2004,8,7990
+Unemployment Level,2004,9,7927
+Unemployment Level,2004,10,8061
+Unemployment Level,2004,11,7932
+Unemployment Level,2004,12,7934
+Civilian Labor Force,2004,1,146832
+Civilian Labor Force,2004,4,147125
+Civilian Labor Force,2004,7,147557
+Civilian Labor Force,2004,10,148005
+Consumer Price Index,2005,1,191.6
+Consumer Price Index,2005,2,192.4
+Consumer Price Index,2005,3,193.1
+Consumer Price Index,2005,4,193.7
+Consumer Price Index,2005,5,193.6
+Consumer Price Index,2005,6,193.7
+Consumer Price Index,2005,7,194.9
+Consumer Price Index,2005,8,196.1
+Consumer Price Index,2005,9,198.8
+Consumer Price Index,2005,10,199.1
+Consumer Price Index,2005,11,198.1
+Consumer Price Index,2005,12,198.1
+Unemployment Level,2005,1,7784
+Unemployment Level,2005,2,7980
+Unemployment Level,2005,3,7737
+Unemployment Level,2005,4,7672
+Unemployment Level,2005,5,7651
+Unemployment Level,2005,6,7524
+Unemployment Level,2005,7,7406
+Unemployment Level,2005,8,7345
+Unemployment Level,2005,9,7553
+Unemployment Level,2005,10,7453
+Unemployment Level,2005,11,7566
+Unemployment Level,2005,12,7279
+Civilian Labor Force,2005,1,148261
+Civilian Labor Force,2005,4,149142
+Civilian Labor Force,2005,7,149722
+Civilian Labor Force,2005,10,150032
+Consumer Price Index,2006,1,199.3
+Consumer Price Index,2006,2,199.4
+Consumer Price Index,2006,3,199.7
+Consumer Price Index,2006,4,200.7
+Consumer Price Index,2006,5,201.3
+Consumer Price Index,2006,6,201.8
+Consumer Price Index,2006,7,202.9
+Consumer Price Index,2006,8,203.8
+Consumer Price Index,2006,9,202.8
+Consumer Price Index,2006,10,201.9
+Consumer Price Index,2006,11,202
+Consumer Price Index,2006,12,203.1
+Unemployment Level,2006,1,7064
+Unemployment Level,2006,2,7184
+Unemployment Level,2006,3,7072
+Unemployment Level,2006,4,7120
+Unemployment Level,2006,5,6980
+Unemployment Level,2006,6,7001
+Unemployment Level,2006,7,7175
+Unemployment Level,2006,8,7091
+Unemployment Level,2006,9,6847
+Unemployment Level,2006,10,6727
+Unemployment Level,2006,11,6872
+Unemployment Level,2006,12,6762
+Civilian Labor Force,2006,1,150556
+Civilian Labor Force,2006,4,151101
+Civilian Labor Force,2006,7,151585
+Civilian Labor Force,2006,10,152393
+Consumer Price Index,2007,1,203.437
+Consumer Price Index,2007,2,204.226
+Consumer Price Index,2007,3,205.288
+Consumer Price Index,2007,4,205.904
+Consumer Price Index,2007,5,206.755
+Consumer Price Index,2007,6,207.234
+Consumer Price Index,2007,7,207.603
+Consumer Price Index,2007,8,207.667
+Consumer Price Index,2007,9,208.547
+Consumer Price Index,2007,10,209.19
+Consumer Price Index,2007,11,210.834
+Consumer Price Index,2007,12,211.445
+Unemployment Level,2007,1,7116
+Unemployment Level,2007,2,6927
+Unemployment Level,2007,3,6731
+Unemployment Level,2007,4,6850
+Unemployment Level,2007,5,6766
+Unemployment Level,2007,6,6979
+Unemployment Level,2007,7,7149
+Unemployment Level,2007,8,7067
+Unemployment Level,2007,9,7170
+Unemployment Level,2007,10,7237
+Unemployment Level,2007,11,7240
+Unemployment Level,2007,12,7645
+Civilian Labor Force,2007,1,153059
+Civilian Labor Force,2007,4,152715
+Civilian Labor Force,2007,7,153072
+Civilian Labor Force,2007,10,153645
+Consumer Price Index,2008,1,212.174
+Consumer Price Index,2008,2,212.687
+Consumer Price Index,2008,3,213.448
+Consumer Price Index,2008,4,213.942
+Consumer Price Index,2008,5,215.208
+Consumer Price Index,2008,6,217.463
+Consumer Price Index,2008,7,219.016
+Consumer Price Index,2008,8,218.69
+Consumer Price Index,2008,9,218.877
+Consumer Price Index,2008,10,216.995
+Consumer Price Index,2008,11,213.153
+Consumer Price Index,2008,12,211.398
+Unemployment Level,2008,1,7685
+Unemployment Level,2008,2,7497
+Unemployment Level,2008,3,7822
+Unemployment Level,2008,4,7637
+Unemployment Level,2008,5,8395
+Unemployment Level,2008,6,8575
+Unemployment Level,2008,7,8937
+Unemployment Level,2008,8,9438
+Unemployment Level,2008,9,9494
+Unemployment Level,2008,10,10074
+Unemployment Level,2008,11,10538
+Unemployment Level,2008,12,11286
+Civilian Labor Force,2008,1,153875
+Civilian Labor Force,2008,4,154128
+Civilian Labor Force,2008,7,154560
+Civilian Labor Force,2008,10,154723
+Consumer Price Index,2009,1,211.933
+Consumer Price Index,2009,2,212.705
+Consumer Price Index,2009,3,212.495
+Consumer Price Index,2009,4,212.709
+Consumer Price Index,2009,5,213.022
+Consumer Price Index,2009,6,214.79
+Consumer Price Index,2009,7,214.726
+Consumer Price Index,2009,8,215.445
+Consumer Price Index,2009,9,215.861
+Consumer Price Index,2009,10,216.509
+Consumer Price Index,2009,11,217.234
+Consumer Price Index,2009,12,217.347
+Unemployment Level,2009,1,12058
+Unemployment Level,2009,2,12898
+Unemployment Level,2009,3,13426
+Unemployment Level,2009,4,13853
+Unemployment Level,2009,5,14499
+Unemployment Level,2009,6,14707
+Unemployment Level,2009,7,14601
+Unemployment Level,2009,8,14814
+Unemployment Level,2009,9,15009
+Unemployment Level,2009,10,15352
+Unemployment Level,2009,11,15219
+Unemployment Level,2009,12,15098
+Civilian Labor Force,2009,1,154294
+Civilian Labor Force,2009,4,154657
+Civilian Labor Force,2009,7,154212
+Civilian Labor Force,2009,10,153591
+Consumer Price Index,2010,1,217.488
+Consumer Price Index,2010,2,217.281
+Consumer Price Index,2010,3,217.353
+Consumer Price Index,2010,4,217.403
+Consumer Price Index,2010,5,217.29
+Consumer Price Index,2010,6,217.199
+Consumer Price Index,2010,7,217.605
+Consumer Price Index,2010,8,217.923
+Consumer Price Index,2010,9,218.275
+Consumer Price Index,2010,10,219.035
+Consumer Price Index,2010,11,219.59
+Consumer Price Index,2010,12,220.472
+Unemployment Level,2010,1,15046
+Unemployment Level,2010,2,15113
+Unemployment Level,2010,3,15202
+Unemployment Level,2010,4,15325
+Unemployment Level,2010,5,14849
+Unemployment Level,2010,6,14474
+Unemployment Level,2010,7,14512
+Unemployment Level,2010,8,14648
+Unemployment Level,2010,9,14579
+Unemployment Level,2010,10,14516
+Unemployment Level,2010,11,15081
+Unemployment Level,2010,12,14348
+Civilian Labor Force,2010,1,153711
+Civilian Labor Force,2010,4,154110
+Civilian Labor Force,2010,7,153917
+Civilian Labor Force,2010,10,153803
+Consumer Price Index,2011,1,221.187
+Consumer Price Index,2011,2,221.898
+Consumer Price Index,2011,3,223.046
+Consumer Price Index,2011,4,224.093
+Consumer Price Index,2011,5,224.806
+Consumer Price Index,2011,6,224.806
+Consumer Price Index,2011,7,225.395
+Consumer Price Index,2011,8,226.106
+Consumer Price Index,2011,9,226.597
+Consumer Price Index,2011,10,226.75
+Consumer Price Index,2011,11,227.169
+Consumer Price Index,2011,12,227.223
+Unemployment Level,2011,1,14013
+Unemployment Level,2011,2,13820
+Unemployment Level,2011,3,13737
+Unemployment Level,2011,4,13957
+Unemployment Level,2011,5,13855
+Unemployment Level,2011,6,13962
+Unemployment Level,2011,7,13763
+Unemployment Level,2011,8,13818
+Unemployment Level,2011,9,13948
+Unemployment Level,2011,10,13594
+Unemployment Level,2011,11,13302
+Unemployment Level,2011,12,13093
+Civilian Labor Force,2011,1,153284
+Civilian Labor Force,2011,4,153456
+Civilian Labor Force,2011,7,153726
+Civilian Labor Force,2011,10,154028
+Consumer Price Index,2012,1,227.842
+Consumer Price Index,2012,2,228.329
+Consumer Price Index,2012,3,228.807
+Consumer Price Index,2012,4,229.187
+Consumer Price Index,2012,5,228.713
+Consumer Price Index,2012,6,228.524
+Consumer Price Index,2012,7,228.59
+Consumer Price Index,2012,8,229.918
+Consumer Price Index,2012,9,231.015
+Consumer Price Index,2012,10,231.638
+Consumer Price Index,2012,11,231.249
+Consumer Price Index,2012,12,231.221
+Unemployment Level,2012,1,12797
+Unemployment Level,2012,2,12813
+Unemployment Level,2012,3,12713
+Unemployment Level,2012,4,12646
+Unemployment Level,2012,5,12660
+Unemployment Level,2012,6,12692
+Unemployment Level,2012,7,12656
+Unemployment Level,2012,8,12471
+Unemployment Level,2012,9,12115
+Unemployment Level,2012,10,12124
+Unemployment Level,2012,11,12005
+Unemployment Level,2012,12,12298
+Civilian Labor Force,2012,1,154600
+Civilian Labor Force,2012,4,154831
+Civilian Labor Force,2012,7,154957
+Civilian Labor Force,2012,10,155507
+Consumer Price Index,2013,1,231.612
+Consumer Price Index,2013,2,232.985
+Consumer Price Index,2013,3,232.299
+Consumer Price Index,2013,4,231.795
+Consumer Price Index,2013,5,231.916
+Consumer Price Index,2013,6,232.374
+Consumer Price Index,2013,7,232.889
+Consumer Price Index,2013,8,233.323
+Consumer Price Index,2013,9,233.632
+Consumer Price Index,2013,10,233.718
+Consumer Price Index,2013,11,234.121
+Consumer Price Index,2013,12,234.723
+Unemployment Level,2013,1,12470
+Unemployment Level,2013,2,11954
+Unemployment Level,2013,3,11672
+Unemployment Level,2013,4,11752
+Unemployment Level,2013,5,11657
+Unemployment Level,2013,6,11741
+Unemployment Level,2013,7,11350
+Unemployment Level,2013,8,11284
+Unemployment Level,2013,9,11264
+Unemployment Level,2013,10,11133
+Unemployment Level,2013,11,10792
+Unemployment Level,2013,12,10410
+Civilian Labor Force,2013,1,155318
+Civilian Labor Force,2013,4,155539
+Civilian Labor Force,2013,7,155662
+Civilian Labor Force,2013,10,155063
+CPI,2014,1,235.385
+CPI,2014,2,235.672
+CPI,2014,3,235.978
+CPI,2014,4,236.471
+CPI,2014,5,236.832
+CPI,2014,6,237.029
+CPI,2014,7,237.424
+CPI,2014,8,237.256
+CPI,2014,9,237.486
+CPI,2014,10,237.506
+CPI,2014,11,237.118
+CPI,2014,12,236.29
+Unemployment Level,2014,1,10240
+Unemployment Level,2014,2,10383
+Unemployment Level,2014,3,10400
+Unemployment Level,2014,4,9705
+Unemployment Level,2014,5,9740
+Unemployment Level,2014,6,9460
+Unemployment Level,2014,7,9637
+Unemployment Level,2014,8,9616
+Unemployment Level,2014,9,9255
+Unemployment Level,2014,10,8964
+Unemployment Level,2014,11,9060
+Unemployment Level,2014,12,8718
+Civilian Labor Force,2014,1,155632
+Civilian Labor Force,2014,4,155540
+Civilian Labor Force,2014,7,156105
+Civilian Labor Force,2014,10,156349
+CPI,2015,1,234.913
+CPI,2015,2,235.489
+CPI,2015,3,235.989
+CPI,2015,4,236.201
+CPI,2015,5,236.891
+CPI,2015,6,237.419
+CPI,2015,7,237.876
+CPI,2015,8,237.811
+CPI,2015,9,237.467
+CPI,2015,10,237.792
+CPI,2015,11,238.153
+CPI,2015,12,237.846
+Unemployment Level,2015,1,8962
+Unemployment Level,2015,2,8663
+Unemployment Level,2015,3,8538
+Unemployment Level,2015,4,8521
+Unemployment Level,2015,5,8655
+Unemployment Level,2015,6,8251
+Unemployment Level,2015,7,8235
+Unemployment Level,2015,8,8017
+Unemployment Level,2015,9,7877
+Unemployment Level,2015,10,7869
+Unemployment Level,2015,11,7939
+Unemployment Level,2015,12,7927
+Civilian Labor Force,2015,1,156858
+Civilian Labor Force,2015,4,157161
+Civilian Labor Force,2015,7,157014
+Civilian Labor Force,2015,10,157479
+CPI,2016,1,238.106
+CPI,2016,2,237.808
+CPI,2016,3,238.078
+CPI,2016,4,238.908
+CPI,2016,5,239.362
+CPI,2016,6,239.842
+CPI,2016,7,239.898
+CPI,2016,8,240.389
+CPI,2016,9,241.006
+CPI,2016,10,241.694
+CPI,2016,11,242.199
+CPI,2016,12,242.821
+Unemployment Level,2016,1,7829
+Unemployment Level,2016,2,7845
+Unemployment Level,2016,3,7977
+Unemployment Level,2016,4,7910
+Unemployment Level,2016,5,7451
+Unemployment Level,2016,6,7799
+Unemployment Level,2016,7,7749
+Unemployment Level,2016,8,7853
+Unemployment Level,2016,9,7904
+Unemployment Level,2016,10,7740
+Unemployment Level,2016,11,7409
+Unemployment Level,2016,12,7529
+Civilian Labor Force,2016,1,158843
+Civilian Labor Force,2016,4,158779
+Civilian Labor Force,2016,7,159544
+Civilian Labor Force,2016,10,159580
+CPI,2017,1,244.158
+CPI,2017,2,244.456
+Unemployment Level,2017,1,7635
+Unemployment Level,2017,2,7528
