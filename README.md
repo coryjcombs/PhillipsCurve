@@ -1,6 +1,8 @@
 # PhillipsCurve
 Empirical testing of relationship between inflation and the unemployment rate (1947-2017).
 
+![image](https://github.com/coryjcombs/PhillipsCurve/blob/master/figures/pc_scenarios.png?raw=true)
+
 ### Overview
 This analysis was conducted and presented for a consulting case study. The case centered around two questions:
 - Does William Phillips's theory of the relationship between inflation and unemployment (the Phillips Curve) hold for the United States?
