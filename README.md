@@ -13,9 +13,9 @@ An initial selection of raw, unformatted data was provided; this data was supple
 The analysis produced interactive data visualizations along with regression tables to demonstrate the historical relationship between inflation and unemployment in the U.S. from 1947 to 2017, along with the changes in their relationship across the studied period. 
 
 ### Results
-- The Phillips Curve has not held as a general relationship in the U.S. during the studied period of 1947-2017. A modest correlation held for a short period in the 1960s, but has not been reproduced.
-- Tests of alternative unemployment calculations and figures did not improve the results.
-- Comparison of different methods of calculating inflation did not improve the results.
+- The Phillips Curve has not held as a general relationship in the U.S. during the studied period of 1947-2017. A modest correlation held for a short period in the 1960s, but has not been reproduced for any other time period longer than five years.
+- Varying unemployment calculations (U3, U6, natural rate of unemployment) did not yield a consistent correlation.
+- Varying the methods of calculating inflation (CPI, GDP deflator) did not yield a consistent correlation.
 - Based on the findings, *there is no empirical evidence to suggest that the U.S. government should use the Phillips Curve as a predictive indicator or policy tool.*
 
 ### Files
