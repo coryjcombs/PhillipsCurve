@@ -30,6 +30,7 @@ The analysis produced interactive data visualizations along with regression tabl
 The following code was delivered:
 - [PhillipsCurveAnalysis.R](https://github.com/coryjcombs/PhillipsCurve/blob/master/code/PhillipsCurveAnalysis.R): Contains full analysis of the Phillips Curve. A single working file was requested that enabled rapid prototyping and figure development using alternative data sources. The book is additionally coded to allow users to select the granularity of data considered, as sources differ in time periods reported. The book is heavily commented to guide users. While an RShiny dashboard was not requested, the project would be easily adapted into a dashboard to allow for dynamic analysis figure generation.
 - [pc.analysis.R](https://github.com/coryjcombs/PhillipsCurve/blob/master/code/pc.analysis.R): Contains all custom functions used in conducting the Phillips Curve analysis.
+
 The analysis used the following libraries:
 - tidyverse: dplyr, tidyr, readr, tibble, and ggplot2
 - ggpubr: for additional ggplot customization
